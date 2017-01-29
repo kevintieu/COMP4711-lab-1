@@ -6,6 +6,7 @@ and open the template in the editor.
 
 GPG key test
 GPG key test 2
+GPG key test 3
 -->
 
 
